@@ -1,0 +1,21 @@
+#content{
+    background-color: whitesmoke;
+}
+.project{
+    position: relative;
+}
+
+#watermark{
+    opacity: 0.5;
+    text-align: center;
+    transform: rotate(-70deg);
+    color: crimson;
+    font-size: 15px;
+    font-family: sans-serif;
+    margin-top: -800px;
+}
+.btn{
+    margin-left: 40%;
+    color: black;
+    
+}
